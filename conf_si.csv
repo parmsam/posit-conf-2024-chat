@@ -1,0 +1,1190 @@
+"x"
+"Advanced Shiny for Python
+Monday, Aug 129:00 AM - 5:00 PM PDT
+
+Our Intro to Shiny for Python workshop takes you through the basics of building Shiny for Python applications with Shiny Express. This course builds on the concepts from the introductory course and teaches you how to build and maintain large, mission-critical applications in Shiny. After this one-day workshop you will understand how to identify and troubleshoot problematic Shiny code, and how to build robust apps which are easy to maintain and extend.
+
+The topics we will cover are:
+
+What is Shiny Core and why do we use it?
+Basics of Shiny modules
+Communicating between modules
+Testing Shiny applications with pytest and playwright
+
+
+This course is for you if you:
+
+Are comfortable working with Python
+Have built and maintained a few Shiny applications in either R or Python
+Are comfortable with Shiny concepts like reactive calculations and effect
+
+
+This course is probably not for you if:
+
+You aren't really comfortable with Python
+You are picking up Shiny for the first time
+Add to Schedule"
+"Advanced Tidymodels
+Monday, Aug 129:00 AM - 5:00 PM PDT
+
+In this workshop you will learn more about model optimization using the tune and finetune packages, including racing and iterative methods. You’ll be able to do more sophisticated feature engineering with recipes. Time permitting, model ensembles via stacking will be introduced.
+
+
+This course is focused on the analysis of tabular data and does not include deep learning methods.
+
+
+This workshop is for you if you:
+
+have used tidymodels packages like recipes, rsample, and parsnip.
+are comfortable with tidyverse syntax (e.g. piping, mutates, pivoting), and
+have some experience with resampling and modeling (e.g., linear regression, random forests, etc.), but we don’t expect you to be an expert in these.
+
+Participants who are new to tidymodels will benefit from taking the Introduction to tidymodels workshop before joining this one.
+
+Add to Schedule"
+"Big Data in R with Arrow
+Monday, Aug 129:00 AM - 5:00 PM PDT
+
+Data analysis pipelines with larger-than-memory data are becoming more and more commonplace. In this workshop you will be introduced to Apache Arrow, a multi-language toolbox for working with larger-than-memory tabular data, to create seamless “big” data analysis pipelines with R.
+
+
+This workshop will focus on using the arrow R package—a mature R interface to Apache Arrow—to process larger-than-memory files and multi-file data sets with arrow using familiar dplyr syntax. You’ll learn to create and use the interoperable data file format Parquet for efficient data storage and access, with data stored both on disk and in the cloud, and also how to exercise fine control over data types to avoid common large data pipeline problems. Designed for new-to-arrow R users, this workshop will provide a foundation for using Arrow, giving you access to a powerful suite of tools for performant analysis of larger-than-memory tabular data in R.
+
+
+This course is for you if you:
+
+Want to learn how to work with tabular data that is too large to fit in memory using existing R and tidyverse syntax implemented in Arrow
+
+Want to learn about Parquet, a powerful file format alternative to CSV files
+
+Want to learn how to engineer your tabular data storage for more performant access and analysis with Apache Arrow
+
+Add to Schedule"
+"Build-a-Dashboard Workshop (with Quarto, R and/or Python)
+Monday, Aug 129:00 AM - 5:00 PM PDT
+
+You already analyze and summarize your data in computational notebooks with R and/or Python. What’s next? You can share your insights or allow others to make their own conclusions in eye-catching dasboards and straight-forward to author, design, and deploy Quarto Dashboards, regardless of the language of your data processing, visualization, analysis, etc. With Quarto Dashboards, you can create elegant and production-ready dashboards using a variety of components, including static graphics (ggplot2, Matplotlib, Seaborn, etc.), interactive widgets (Plotly, Leaflet, Jupyter Widgets, htmlwidgets, etc.), tabular data, value boxes, text annotations, and more. Additionally, with intelligent resizing of components, your Quarto Dashboards look great on devices of all sizes. And importantly, you can author Quarto Dashboards without leaving the comfort of your “home” – in plain text markdown with any text editor (VS Code, RStudio, Neovim, etc.) or any notebook editor (JupyterLab, etc.).
+
+
+This workshop will walk you through building an increasingly complex dashboard using various layout options and deploy them as static web pages (with no special server required) as well as with a Shiny Server on the backend for enhanced interactivity.
+
+
+
+
+This course is for you if you:
+
+do data analysis in computational notebooks
+
+share your results with your audience in static or interactive dashboards
+
+want to improve the design, user interface, and experience of your dashboards
+
+Add to Schedule"
+"Causal Inference in R
+Monday, Aug 129:00 AM - 5:00 PM PDT
+
+In this workshop, we'll teach the essential elements of answering causal questions in R through causal diagrams, and causal modeling techniques such as propensity scores and inverse probability weighting.
+
+
+In both data science and academic research, prediction modeling is often not enough; to answer many questions, we need to approach them causally. In this workshop, we'll teach the essential elements of answering causal questions in R through causal diagrams, and causal modeling techniques such as propensity scores and inverse probability weighting. We'll also show that by distinguishing predictive models from causal models, we can better take advantage of both tools. You'll be able to use the tools you already know–the tidyverse, regression models, and more–to answer the questions that are important to your work.
+
+
+This course is for you if you:
+
+know how to fit a linear regression model in R,
+
+have a basic understanding of data manipulation and visualization using tidyverse tools, and
+
+are interested in understanding the fundamentals behind how to move from estimating correlations to causal relationships.
+
+Add to Schedule"
+"Databases with R
+Monday, Aug 129:00 AM - 5:00 PM PDT
+
+As a data professional, you likely have to deal with databases that are larger than your available RAM. Downloading the data requires patience, applying traditional workflows is frustrating. This workshop will teach you to work with your (large) data:
+
+if it resides in a traditional database, effortlessly
+
+from local storage, using DuckDB, a modern database engine tailored to data analysis
+
+The workshop will introduce basic database concepts and move on with practical work with traditional databases and DuckDB. You are encouraged to bring your own data(base) to immediately apply what you have learned during the workshop. Among others, the workshop showcases the DBI, dbplyr, duckdb, duckplyr, and dm packages.
+
+
+This course is for you if you:
+
+have worked with the dplyr package
+
+have just read or heard about databases and are ready to get your hands dirty
+
+performed basic operations on a database, and you would like to deepen your knowledge
+
+have heard about DuckDB and want to know what makes it unique and how to leverage it in your daily workflow
+
+Add to Schedule"
+"Data Science Workflows with Posit Tools - R Focus
+Monday, Aug 129:00 AM - 5:00 PM PDT
+
+In this R-focused workshop, we will discuss ways to improve your data science workflows! During the course, we will review packages for data validation, alerting, modeling, and more. We'll use Posit's open source and professional tools to string all the pieces together for an efficient workflow. We'll discuss environments, managing deployed content, working with databases, and interoperability across data products.
+
+
+This course is for you if you:
+
+Build finished data products starting from raw data and are looking to improve your workflow
+Are looking to expand your knowledge of Posit open source and professional tools
+Want to improve interoperability between data products in your work or on your team
+Have experience developing in R. An analogous course with a Python focus is also offered.
+Add to Schedule"
+"Data Science Workflows with Posit Tools - Python Focus
+Monday, Aug 129:00 AM - 5:00 PM PDT
+
+This Python-focused workshop will discuss ways to improve your data science workflows! During the course, we will review packages for data validation, alerting, modelling, and more. We’ll use Posit’s open-source and professional tools to string all the pieces together for an efficient workflow. We’ll discuss environments, managing deployed content, working with databases, and interoperability across data products.
+
+
+This course is for you if you:
+
+Build finished data products starting from raw data and are looking to improve your workflow
+Are looking to expand your knowledge of Posit open source and professional tools
+Want to improve interoperability between data products in your work or on your team
+Have experience developing in Python. An analogous course with an R focus is also offered
+Add to Schedule"
+"DevOps for Data Scientists
+Monday, Aug 129:00 AM - 5:00 PM PDT
+
+In this course we will learn the key principles of DevOps and problems which it intends to solve for data scientists. We will discuss how DevOps practices such as CI/CD enhance collaboration, automation, and reproducibility. We will learn common workflows for environment management, package management, containerization, monitoring & logging, and version control. Participants will get hands-on experience with a variety of tools including Docker, Github Actions, and APIs. Posit Pro Products will also be used by participants to quickly create and deploy R or python code using DevOps pipelines.
+
+
+Please note that this course is not prescriptive around DevOps tools which are constantly growing and changing. Given that, the exact tools that will be used in this course (e.g. Jenkins, Azure Devops, etc) are subject to change.
+
+
+This course is for you if you:
+
+Want to learn the main principles and tools of DevOps
+Are a data scientist who wants to put their R/Python code into production or work more closely with DevOps teams
+Want to get hands-on experience using docker, CI/CD tools, and other DevOps workflows.
+Add to Schedule"
+"Effective Data Visualization with ggplot2
+Monday, Aug 129:00 AM - 5:00 PM PDT
+
+The R programming language provides powerful primitives for data visualization. In particular, for many data scientists the package ggplot2 is the go-to toolkit for making visualizations. Through its modular and extensible design, ggplot2 has mushroomed into a formidable ecosystem, and with the aid of third-party extension packages there is little in terms of data visualization that cannot be done with ggplot2 these days. However, harnessing this flexibility and power can present a steep learning curve. While most users can quickly throw together a scatter plot or histogram, turning the initial figure draft into a carefully designed, publication-ready visualization requires a much deeper understanding of how ggplot2 functions.
+
+
+This workshop has two complementary goals. First, you will learn useful tips and tricks for ggplot2 that will help you make plots that look stylish, unique, and exactly the way you want them to. This will include strategies for layering geoms, customizing coordinate systems and scales, tweaking the plot theme and other aspects of the plot appearance, and creating annotations. Second, you will learn some fundamental principles of figure design. These will include principles for choosing color palettes and for designing for color-vision deficiency, as well as some general principles of communication and design for accessibility.
+
+
+This course is for you if you:
+
+have some prior experience with ggplot2 and the tidyverse
+
+want to learn how to tweak and fine-tune plot designs in ggplot2
+
+want to learn more about how to choose colors and how to design for accessibility
+
+Add to Schedule"
+"+1
+Flavors of the Pharmaverse
+Monday, Aug 129:00 AM - 5:00 PM PDT
+
+Over the past 4 years, the pharmaverse was created and has blossomed into a booming community of organizations and package developers aimed at supporting R development with focus on the clinical reporting pipeline. Even within a world as standardized as regulatory submissions, organizations still tend to have sometimes vastly different requirements within their own processes.
+
+In this workshop, we’ll give a high level overview of the scope and tools available within the pharmaverse for the clinical pipeline, including tools for ADaM data set curation, creating Analysis Results Data Sets, and TLGs. To help attendees understand how there are different paradigms and pathways through the pharmaverse, we’ll take a tour through two to three different strategies available to support table, listing, and figure creation. Attendees of this workshop will walk away with an understanding of how the pharmaverse can help their organization and where they can look to learn more about the right tools to support their needs.
+
+Add to Schedule"
+"From R User to R Programmer
+Monday, Aug 129:00 AM - 5:00 PM PDT
+
+This is a one-day, hands-on workshop for intermediate R users who use the tidyverse and want to improve and reduce the amount of duplication in their code. You will learn the two main ways to reduce duplication: creating functions and using iteration.
+
+We will use a tidyverse approach to cover function design and iteration. When writing a function you will learn how to deal with “data masking”, give default values to arguments, give unspecified arguments, and what side effects are and how to manage them. In the afternoon, you will learn how to iterate across the columns of a dataframe using across(), what “anonymous” functions are and how to read and write multiple files using purrr.
+
+
+This course is for you if you:
+
+have experience equivalent to an introductory data science course using tidyverse
+
+feel comfortable with the Whole game part of R for Data Science
+
+want to learn how to write functions and use iteration to reduce duplication in your code
+
+Add to Schedule"
+"Introduction to Machine Learning in Python with Scikit-learn
+Monday, Aug 129:00 AM - 5:00 PM PDT
+
+This workshop will teach you how to perform machine learning for prediction in Python using the widely-used Scikit-learn package. You will be introduced to best practices for machine learning model creation and selection, including data splitting, pre-processing, parameter and model optimization, as well as results visualization and communication. Workshop examples will begin with simple, intuitive models (e.g., K-nearest neighbors, linear regression) but also demonstrate the use of more commonly used and industry standard models (e.g., L1 Regularized regression and Light Gradient Boosting Machines). The workshop will focus on demonstrating how to do this using the modern Scikit-learn pipeline syntax.
+
+
+This course is for you if you:
+
+are comfortable using Python and the pandas and package to read, transform and reshape data
+
+have experience making a variety of graphs with any Python package
+
+Intermediate or expert familiarity with modeling or machine learning is not required.
+
+Add to Schedule"
+"Introduction to Quarto
+Monday, Aug 129:00 AM - 5:00 PM PDT
+
+This workshop will prepare you to author a rich array of documents in Quarto, the next generation of R Markdown. Quarto is an open-source scientific and technical publishing system that offers multilingual programming language support to create dynamic and static documents, books, presentations, blogs, and other online resources.
+
+The focus for this workshop will be on single documents. You will learn to create static documents, to add interactivity to them with Shiny and htmlwidgets, or steer them in the direction of sophisticated scientific documents. In the afternoon you’ll take the same authoring approaches to create slide presentations in various formats such as reveal.js, beamer, and pptx.
+
+
+This course is for you if you:
+
+have a basic knowledge of how to use the RStudio IDE,
+
+have some familiarity with markdown, or
+
+are excited to author flexible single documents like technical reports and slide presentations.
+
+Seasoned users of R Markdown will get more out of the Build-a-Dashboard Workshop (with Quarto, R and/or Python) or Quarto Websites workshops, which are focused on specific output types.
+
+Add to Schedule"
+"Introduction to Shiny for Python
+Monday, Aug 129:00 AM - 5:00 PM PDT
+
+Shiny for Python is a new framework for building performant, beautiful web applications in Python. In this one-day workshop, you will learn the basic building blocks of a Shiny application which will let you create both quick, simple applications and elaborate mission-critical ones.
+
+In particular this workshop covers:
+
+The basics of building a Shiny for Python app
+When to use reactive calculations and reactive effects
+How modules can help you develop reusable components
+Theming and deploying your application
+
+At the end of this course you will be able to:
+
+Build a Shiny app in Python
+Articulate how Shiny differs from other frameworks
+Utilize best practices to make sure your app is robust and scalable
+
+This course is for you if you are:
+
+A Python programmer interested in quickly building efficient web applications
+An educator interested in integration Shiny apps into your python course
+An R programmer interested in building Shiny apps in Python
+
+FAQ
+
+What if I’m a complete beginner?
+You should have a basic understanding of Python and be able to install packages with pip, do basic data manipulation, and draw plots.
+What if I’ve never built a Shiny app before?
+This workshops doesn’t require any Shiny or web application experience. We will start from scratch to build simple applications before moving on to more complex ones.
+Why should I learn Shiny if I already know Streamlit or Dash?
+We believe that Shiny is the best framework for building data applications in Python. It’s reactive execution model means that you can build performant applications without explicitly caching data or managing application state. See this blog post for more on why we think that Shiny is worth learning.
+I’m an expert with Shiny for R, is this workshop for me?
+The R and Python Shiny packages are quite similar, so some of the content in this workshop may be familiar to you. That said it’s a great opportunity to fill in missing pieces and ask question about Python best practices. Check out our Shiny for R comparison for R users and this tutorial if you want to quickly get up to speed with Shiny for Python.
+Add to Schedule"
+"Introduction to Shiny for R
+Monday, Aug 129:00 AM - 5:00 PM PDT
+
+Shiny is an R package that makes it easy to build interactive web apps straight from R. This workshop will start at the beginning: designing and creating user interfaces, learning and mastering the reactive model that connects your R code to the interface, and deploying apps publicly and privately. We will wrap up with some intermediate-level tools: debugging and modularizing your apps and implementing dynamic user interfaces. In the end, you’ll be a confident Shiny user, able to design interactive apps to achieve your purpose and produce a polished and professional implementation.
+
+
+This workshop is for you if you:
+
+are comfortable with the basics of R, such as writing functions, indexing vectors and lists, debugging simple errors, and working with data structures like data frames,
+
+are interested in creating interactive web applications, and
+
+have no or minimal experience with Shiny for R. If you have a bit of experience, you’ll see things in a new way. If you don’t, we’ll get you started on the right footing.
+
+Add to Schedule"
+"Introduction to tidymodels
+Monday, Aug 129:00 AM - 5:00 PM PDT
+
+This workshop will teach you core tidymodels packages and their uses: data splitting/resampling with rsample, model fitting with parsnip, measuring model performance with yardstick, and basic pre-processing with recipes. Time permitting, you’ll be introduced to model optimization using the tune package. You’ll learn tidymodels syntax as well as the process of predictive modeling for tabular data.
+
+
+This workshop is for you if you:
+
+are comfortable using tidyverse packages to read data into R, transform and reshape data, and make a variety of graphs, and
+have had some exposure to basic statistical concepts such as linear models, residuals, etc.
+
+Intermediate or expert familiarity with modeling or machine learning is not required. Interested students who have intermediate or expert familiarity with modeling or machine learning may be interested in the Advanced tidymodels workshop.
+
+Add to Schedule"
+"Intro to MLOps with vetiver
+Monday, Aug 129:00 AM - 5:00 PM PDT
+
+Data scientists understand what goes into training a machine learning or statistical model, but bringing that model into a production environment can be daunting.
+
+
+This workshop will cover the fundamentals of MLOps (machine learning operations), the practices used to create a MLOps strategy, and what kinds of tasks and components are involved. We’ll use vetiver, a framework for MLOps tasks in Python and R, to version, deploy, and monitor the models you have trained and want to deploy and maintain in production reliably and efficiently.
+
+
+We expect participants to have exposure to basic modeling and machine learning practice, but NOT expert familiarity with advanced ML or MLOps topics.
+
+
+This workshop is for you if you:
+
+have intermediate R or Python knowledge (this will be a “choose your own adventure” workshop where you can work through the exercises in either R or Python),
+
+can read data from CSV and other flat files, transform and reshape data, and make a wide variety of graphs, and
+
+can fit a model to data with your modeling framework of choice.
+
+Add to Schedule"
+"Level Up with Shiny for R
+Monday, Aug 129:00 AM - 5:00 PM PDT
+
+Shiny, a web framework for R and Python, lets you quickly create rich, data-driven web applications for yourself, your clients, your students, or your colleagues. This workshop will give you the skills you need to build complex applications with brilliant user interfaces. You’ll learn how to make the most of recent developments in the Shiny ecosystem, while mastering techniques for modularizing and structuring your applications for scalability and maintainability. Along the way, you’ll encounter new techniques to speed up your applications using caching and databases for a smooth user experience.
+
+
+This workshop is for you if:
+
+You can comfortably create a basic Shiny for R application, but are ready to make apps that are a little more complicated
+
+You’ve made a Shiny application that has started to grow in terms of users or lines of code and you want to improve your user interface or your code structure to support your growing app
+
+You want to bring advanced Shiny tools like modules, caching, databases and testing into your app building workflows
+
+You have (or want to put) a Shiny app into production. You also know that in production means that someone depends on the app and that that someone could even be you, a small handful of your colleagues, or an entire division of your organization.
+
+Add to Schedule"
+"Making Tables with gt and Great Tables
+Monday, Aug 129:00 AM - 5:00 PM PDT
+
+The gt package for R and the Great Tables package for Python both deal with an important element of written communication: tables. We don’t believe tables have to be drab or dull. Rather, we think that tables have the power to inspire and to excite!
+
+In this workshop, you’ll learn about how to make tables that can accurately convey information yet look aesthetically pleasing. We will handle the first stumbling block: what do we even call the different parts of a table? After getting the table terminology down we’ll learn how to effectively assemble the table components and create powerful displays of information. We will start simply and progressively, working toward more complex table designs. Since there are two packages (one in R, one in Python) we will take a blended approach and learn about table generation in bilingual fashion.
+
+
+
+We’ll cover the following:
+
+Create table components and put them together (e.g., header, footer, stub, etc.)
+Format cell values (numeric/scientific, date/datetime, etc.)
+Rearranging columns and handling column value alignments
+Styling the table, either through data values or on a more granular level
+Adding icons, plots, images, and incorporating your own HTML
+more!
+
+This course is for you if you:
+
+have some basic working knowledge of either R or Python (separate sets of materials will be available for both R and Python),
+
+have data you often need to present as data summaries
+
+would like to level-up your ability to generate tables for publication
+
+Add to Schedule"
+"Package Development: The Rest of the Owl
+Monday, Aug 129:00 AM - 5:00 PM PDT
+
+In R, the fundamental unit of reusable and shareable code is a package, containing helpful functions, documentation, and sometimes sample data. Putting R code in a package is the best way to share our code with others or to share code across different projects. This workshop assumes you've already dipped your toe in package development, i.e. that you've managed to create a basic package and pass R CMD check. In terms of ""How to draw an owl,"" you've definitely drawn some circles. But now it's time to draw the rest of the owl!
+
+
+You will learn workflows and skills that are (a) very important for package development and (b) very different from writing R scripts. We will lean heavily on the tools and principles used by the tidyverse team, embodied in the devtools family of packages, including usethis, testthat, and roxygen2.
+
+
+The exact topics won't be finalized until closer to conf, but they are likely to be drawn from this list:
+
+Fundamental daily workflows: devtools::load_all() and check()
+Documentation: function documentation, vignettes, and website
+Dependencies and namespaces: how to use other packages in yours and how to distinguish the parts of your package that are internal vs. external
+Testing: the testthat package and the philosophy of writing tests as you go (vs. “later”)
+Debugging: beyond print statements
+Data: internal data vs. data available to your user
+
+It is likely we will reserve a chunk of time late in the day for you to apply something you’ve learned to your own package(s). This is a good chance to talk things through with members of the tidyverse team. This will be an interactive 1-day workshop, and we will be using the RStudio IDE to work through the materials.
+
+
+This course is for you if you:
+
+Are very comfortable writing R scripts and functions.
+Have already created a basic package, e.g., you’ve successfully worked through The Whole Game chapter from R Packages or have equivalent experience.
+Have concrete plans for one or more specific packages you want to create. You might have even started implementing these plans.
+Are interested in using devtools/RStudio for package development.
+Are at least curious about Git/GitHub. We won’t have time to teach this explicitly, but you will certainly see Git/GitHub through out the day.
+Add to Schedule"
+"Posit Academy: Introduction to Data Science with R
+Monday, Aug 129:00 AM - 5:00 PM PDT
+
+Looking for Introduction to Data Science with Python? We are offering this as part of our “Posit Academy + Workshop Pass,” available for purchase during registration. This is not a standard workshop, but a six-week, online Posit Academy apprenticeship followed by a one-day, in-person learning experience at posit::conf(2024).
+
+Here, you will learn the foundations of R for data science together with a close group of fellow learners, under the guidance of a Posit Academy mentor. Topics will include the basics of R, importing data, visualizing and wrangling data with the tidyverse, and reporting reproducibly with Quarto.
+
+
+Online Experience (July 1st - August 9th)
+
+You will be expected to complete a weekly curriculum of interactive tutorials and an applied data science project. You will attend two weekly meetings with your mentor and fellow learners via Zoom to work together, ask questions, and share your work with your group. Visit posit.co/academy to learn more about this uniquely effective learning format.
+
+
+In-person experience (August 12th)
+
+
+You will join your fellow learners at posit::conf(2024) to practice, apply and extend what you have learned through a series of group coding challenges, led by Posit Academy staff.
+
+
+This course is for you if you:
+
+are new to R or the tidyverse,
+have dabbled in R, but now want a rigorous foundation in up-to-date data science best practices, or
+are a SAS or Excel user looking to switch your workflows to R.
+Important dates
+Online sessions begin the week of July 1st, 2024.
+Registration for this workshop will close on June 24th, 2024.
+
+No prior knowledge of R required.
+
+
+Instructors
+
+Posit Academy is Posit's internal team of data scientists and educators. We provide a cohort-based, mentor-led, hands-on data science apprenticeship for working professionals. It is delivered on an online platform with interactive coding exercises and frequent cross-learner collaboration.
+
+Add to Schedule"
+"Quarto Websites
+Monday, Aug 129:00 AM - 5:00 PM PDT
+
+Do you need a professional website to showcase your work? Or have you got an idea for a website at work, but it needs to reflect your organization’s brand? If you’ve used Quarto to produce a document, you’ve already got the technical skills to create a Quarto website. In this workshop, you’ll learn everything else you need to build a website and customize its appearance.
+
+You’ll get a running start by using a template we’ve designed to be functional and attractive, but also act as a guide for your learning. Then you’ll:
+
+Add pages and navigation, and learn best practices for structuring your content.
+
+Customize the visual appearance of your site by mastering the basics of SCSS and CSS and how they apply to Quarto websites.
+
+Use listings, a special kind of page, to showcase related content like blog posts, projects, or talks.
+
+By the end of the workshop you’ll have built and published (if you want) a personal website, but the same tools and techniques will apply to any kind of website you might like to build.
+
+We’ll assume you’ve used Quarto to produce documents, but we won’t assume you have any HTML, CSS/SCSS or Git/GitHub experience, nor will we assume any particular programming language (R, Python etc.) or level of programming experience.
+
+
+This course is for you if you:
+
+Have used Quarto to generate documents (e.g. HTML, PDF, MS Word etc.)
+
+Are comfortable editing plain text documents (e.g .qmd) in your IDE (e.g. RStudio, Visual Studio Code etc.)
+
+Want to walk away with your own personal website
+
+Add to Schedule"
+"R in Production
+Monday, Aug 129:00 AM - 5:00 PM PDT
+
+What it means to put R in production varies tremendously from organisation to organisation. However, I believe that there are common principles that you can learn to improve your code, regardless of the precise details of what production means for your organisation.
+
+
+This workshop is organised around three big differences between running a local script on your computer and putting your code into production:
+
+Not just once: production code isn’t a one-off script; it runs repeatedly, and needs to run reliably even as the environment around it (e.g. R package versions and input data) changes. How can you ensure that code continues to run reliably months and years after you wrote it, and when there’s a problem it clearly reports on it.
+Not just your computer: production code doesn’t run on your computer. It typically runs on some other server where you can’t interactively experiment. This poses particular challenges for authentication and debugging.
+Not just you: the responsibility for production code is typically shared across a team. How can you ensure that you’re all working together as effectively as possible, sharing code and best practices, and continuing to get better at your job over time.
+
+This course is for you if you:
+
+Get frustrated debugging R code that’s running on another computer.
+
+Struggle keep your code running reliably as packages and data change over time.
+
+Want to generally improve the quality of your production code.
+
+Add to Schedule"
+"Using Databricks with R
+Monday, Aug 129:00 AM - 5:00 PM PDT
+
+As most organization’s data migrate to the cloud, the ability to analyze data in-place becomes more important. This workshop will walk you through how to think about remote data, how to access it, and how to analyze it efficiently. We will review the latest in integrations between R and Databricks. The two integrations that we will review are:
+
+Spark via Databricks Connect
+
+ODBC connection
+
+During the workshop, we will discuss best practices for when to use which integration, as well as techniques to take your analysis into production.
+
+This course is for you if you:
+
+Are an R user
+
+Plan, or are currently, using Databricks services
+
+Need to learn how to access and analyze data in Databricks
+
+Add to Schedule"
+"What They Forgot To Teach You About R
+Monday, Aug 129:00 AM - 5:00 PM PDT
+
+This one day What They Forgot (WTF) To Teach You About R workshop is for experienced R and RStudio users who want to better understand R execution via debugging and personal R administration. At the conclusion of the workshop you will have distinct strategies for debugging your own code versus someone else’s code, as well as strategies for maintaining your R installation through the lens of reproducibility.
+
+
+This course is for you if you:
+
+Have been using R for a while and you want a deeper understanding of what code is executing when and where it is coming from.
+
+Want strategies for overcoming roadblocks when all else has failed in function execution or package installation.
+
+Are willing to get into the weeds of your R installation, project organization, error messages, and source code.
+
+Add to Schedule"
+"Welcome Reception
+Monday, Aug 125:30 PM - 7:30 PM PDT
+
+Join us for an informal gathering to celebrate the opening of posit::conf(2024)!
+
+Add to Schedule"
+"JB
++1
+Keynote Session: Posit Team, featuring Hadley Wickham, James Blair, Charlotte Wickham, and George Stagg
+Tuesday, Aug 139:00 AM - 10:00 AM PDT
+
+Session details coming soon!
+
+Add to Schedule"
+"EN
++1
+Drugs Not Bugs: Effective Use Of R & Python In Pharma
+Tuesday, Aug 1310:20 AM - 11:40 AM PDT
+
+Breaking Barriers: Adopting R in Biotech with Posit - Nicole Jones
+In recent years, there has been a notable surge in R adoption in pharmaceutical and biotech sectors, demanding regulated environments for R-based workflows. Posit offers a comprehensive ecosystem of tools designed to meet these needs. While these tools offer advantages, there is an additional burden placed on companies to maintain the environment. One notable challenge is integrating the Posit tools with a regulated Statistical Computing Environment(SCE) while ensuring standardized environments across the development and regulated systems. In this talk, we will share the benefits, challenges and lessons learned leveraging the Posit ecosystem in a mid-sized biotech company.
+
+
+Mastering the Art of Adopting R and Python: Innovative Strategies for Effective Change Management - Mark Bynens
+Mastering the Art of Adopting R and Python: Innovative Strategies for Effective Change Management' is more than just a presentation; it's a roadmap to navigate the complexities to integrate R and Python into our daily operations in a world that never slows down. Through an in-depth look at some real-world examples from Janssen R&D moving towards R and Python we will show you how it's done. This isn't just theory; it's practical, actionable advice.
+
+As we embark on a journey to weave R and Python into the fabric of our organization, let's keep these insights and strategies at the forefront. Together, we can redefine what it means to be adaptable and resilient in an ever-changing world.
+
+
+A New Era for Shiny-based Clinical Submissions using WebAssembly - Eric Nantz
+In life sciences, Shiny has enabled tremendous innovations to produce web interfaces as front-ends to sophisticated analyses, interactive visualizations, and clinical reporting. While industry sponsors have widely adopted Shiny, a relatively unexplored frontier has been the inclusion of a Shiny application inside a submission package to the FDA. The R Consortium R-Submissions Working Group has continued the momentum of previous submission pilots, such as the successful Shiny app submission to FDA in 2023. In this talk, I will share the journey of how we used containers and WebAssembly for a new and innovative approach to sharing a Shiny application directly with the FDA, paving the way for new innovation in the clinical submission process.
+
+
+Open-Source Initiatives in Pharma - What's Out There and Why You Should Join - Nicholas Masel
+The pharmaceutical industry has come a long way when it comes to using open-source and collaborating on initiatives to solve complex industry issues. The number of initiatives and working groups that are now available have grown so much over the last 5 to 10 years that understanding what to join, or even just what to keep track of, can feel like selecting an R package, you’ve got a lot of options! This is a good problem to have, but it can also feel like a barrier to entry for companies or individuals in the industry who are looking to learn and/or contribute. In this talk, I will present guidance to the pharmaceutical industry to help them navigate the open-source collaboration landscape to help companies and individuals get involved.
+
+Add to Schedule"
+"DP
++1
+Machine Learning And Statistical Modeling
+Tuesday, Aug 1310:20 AM - 11:40 AM PDT
+
+Making sense of marginal effects - Demetri Pananos
+The marginaleffects package for R and python offers a single point of entry to easily interpret over 100 types of models using a simple and consistent interface. Marginaleffects has become an indispensable tool for moving away from tables of regression coefficients and towards easily interpretable and estimates. In addition to making regression models more interpretable, marginaleffects offers flexible plotting tools, efficient implementations, validated results against Stata, and a thoroughly documented website abundant with examples and vignettes.
+
+
+This talk is for data scientists and data analysts who analyze data with regression models. We’ll cover how to estimate and visualize a variety of effect summaries with marginaleffects.
+
+
+Understanding, Generating, and Evaluating Prediction Intervals - Bryan Shalloway
+For many problems concerning prediction, providing intervals is more useful than just offering point estimates. This talk will provide an overview of:
+
+How to think about uncertainty in your predictions (e.g. noise in the data vs uncertainty in estimation)
+Approaches to producing prediction intervals (e.g. parametric vs conformal)
+Measures and considerations when evaluating and training models for prediction intervals
+
+
+While I will touch on some similar topics as Max Kuhn’s posit::conf(2023) talk on conformal inference, my talk will cover different points and have a broader focus. I hope attendees gain an understanding of some of the key tools and concepts related to prediction intervals and that they leave inspired to learn more.
+
+
+Keras 3: Deep Learning made easy - Tomasz Kalinowski
+Keras 3 is a ground-up rewrite of Keras 2, keeping everything that was already great the same, while refining and simplifying parts of the API based on lessons accumulated over the past few years. Come to this talk to learn about all the features (new and old) in Keras that make it easy to build, train, evaluate and deploy deep learning models.
+
+
+Quality Control to avoid GIGO in Deep Learning Models - Vasant Marur
+Deep Learning models help answer scientific questions, but they are only as accurate as the data we feed them. To ensure accurate models, we can implement quality control (QC) methods to ensure only high quality data is used in training these models. Scientists generate thousands of images as part of Image-Based High Content Screening assays. To help them quickly assess the quality of these images before considerable time is spent analyzing them, we developed an interactive tool using Shiny that displays which images were flagged as part of QC. In this talk, I’ll explain how we created this QC tool and share ideas on how you could leverage your existing code and turn it into a stand alone web app your stakeholders can use.
+
+Add to Schedule"
+"+1
+Navigating A Career In Data Science
+Tuesday, Aug 1310:20 AM - 11:40 AM PDT
+
+Beyond the Classroom: Unspoken Realities of a Data Science Career - Brandon Sucher
+
+Embarking on a data science career extends well beyond academic knowledge. In many ways, the learning has just begun. Soft skills have become increasingly valuable, with effective collaboration being essential for success. Additionally, there may be moments when advocating for your own work is crucial, turning data scientists into persuasive salespeople for their own insights and contributions. In this talk, I'll touch on some of the aspects of a data science job that aren't talked about as frequently, including onboarding successfully, becoming a subject matter expert, and understanding the end-to-end data workflow.
+
+
+GitHub: How To Tell Your Professional Story - Abigail Haddad
+
+GitHub is more than just a version control tool, it's a way of explaining your professional identity to prospective employers and collaborators – and you can build your profile now, before you're looking for new opportunities. This talk is about how to think of GitHub as an opportunity, not a chore, and how to represent yourself well without making developing your GitHub profile into a part-time job. I'll talk about why GitHub adds value beyond a personal website, what kinds of projects are helpful to share, and some good development practices to get in the habit of, regardless of your project specifics.
+
+
+Getting Data Done with a Pragmatic Data Team - Alan Schussman
+
+Data work comes in lots of forms, and large organizations with reliable pipelines of similar problems can be very specialized in how they tackle this work. My contention is that many organizations doing data work don't get to be so picky: Instead of specialized roles in focused parts of a data process, many of us work from end to end, and projects often differ in the tools and domain knowledge they require. Identifying and making use of good, reusable practices in this environment is hard, and there's not a consistent supply of some of the work that's most appealing to ambitious data people. This talk explores some successes and failures in building flexible, effective, empowered teams in this environment.
+
+
+Oops I'm A Manager - Finding your Minimal Viable Process - Andrew Holz
+
+In today's fast-paced, data-driven landscape, transitioning to a leadership role can be daunting. This talk is designed for emerging data team leaders, offering insights into striking the right balance between a clear effective process and the flexibility required for team members to do their best work. It emphasizes the importance of iterative process design, establishing effective feedback loops, and empowering team members with autonomy. These key strategies put into action as team habits provide a blueprint for an adaptable workflow relevant to a range of different organizations. The talk aims to create a framework where both efficiency and creativity can thrive together.
+
+Add to Schedule"
+"+4
+New Work From Posit
+Tuesday, Aug 1310:20 AM - 11:40 AM PDT
+
+In this talk, learn about a new project from the team at Posit for your data science work. Expect to hear about how to use this tool and the considerations that have gone into building it. Stay tuned for more details!
+
+Add to Schedule"
+"img-landscape
+Birds of a Feather
+Tuesday, Aug 1311:40 AM - 12:10 PM PDT
+
+These are informal gatherings for attendees to discuss specific topics that are interesting to them! You can choose from one our pre-planned topics, or suggest your own topic when you arrive at conf!
+
+Add to Schedule"
+"Networking Lunch
+Tuesday, Aug 1311:40 AM - 1:00 PM PDT
+
+Join your fellow posit::conf attendees for a networking lunch!
+
+Add to Schedule"
+"img-landscape
+Posit Demos and Partner Activities
+Tuesday, Aug 1311:45 AM - 12:45 PM PDT
+
+Join us in the lounge for scheduled Posit demos, connect with the Posit team, and meet up with Posit partners!
+
+Add to Schedule"
+"+1
+Beautiful And Effective Tables
+Tuesday, Aug 131:00 PM - 2:20 PM PDT
+
+Adequate Tables? No, We Want Great Tables - Richard Iannone
+Tables are great, and we’ve been doing a lot on both the R and Python sides to make it possible to generate aesthetically pleasing tables. The gt package for R has been under continuous development for six years and there is still so many things we can do to make it better. Great Tables, our new Python package, brings beautiful tables to Python users and provides an API that’s in tune with that ecosystem.
+
+While we have made great strides and unlocked new table-making possibilities for our users, our ambitions are huge! So, we’d like to show you the state of things on this front and also where we intend to go with our collective table efforts.
+
+
+Context is King - Shannon Pileggi
+The quality of data science insights is predicated on the practitioner’s understanding of the data. Data documentation is the key to unlocking this understanding; with minimal effort, this documentation can be natively embedded in R data frames via variable labels. Variable labels seamlessly provide valuable data context that reduces human error, fosters collaboration, and ultimately elevates the overall data analysis experience. As an avid, daily user of variable labels, I am excited to help you discover new workflows to create and leverage variable labels in R!
+
+
+gtsummary: Streamlining Summary Tables for Research and Regulatory Submissions - Daniel Sjoberg
+The gtsummary R package empowers researchers and analysts to create publication-ready summary tables efficiently. Developed at Memorial Sloan Kettering Cancer Center, it quickly gained traction and has become the most downloaded package for summary tables on CRAN. 2024 marked a significant expansion for gtsummary. A comprehensive codebase update enhanced performance and introduced new features. Further, the adoption of CDISC’s Analysis Results Data standard enables compliance with emerging FDA submissions standards, maintaining relevance for various research and regulatory needs. gtsummary offers a robust solution for generating clear, informative tables, saving time and ensuring quality for researchers and analysts across diverse fields.
+
+
+Stitch by Stitch: The Art of Engaging New Users - Becca Krouse
+In the world of crochet, the Woobles kit simplifies yarn, hooks, and stitches for beginners, alleviating decision fatigue and fostering early success. This model unexpectedly extends to the domain of R. Newcomers, especially in industries less familiar to open-source, may find mastering new tools daunting. We grappled with this while developing {tfrmt}, a table-making package for pharma. This talk will draw parallels with crochet to explore strategies for engaging and retaining new users. Attendees will grasp the role of a starter kit for easing the learning curve and the value of nurturing experts with transferable skills. They'll glean insights to support their own audiences, whether in creating an R package or crafting a cuddly unicorn.
+
+Add to Schedule"
+"CB
++11
+Lightning Talks
+Tuesday, Aug 131:00 PM - 2:20 PM PDT
+
+1. R Scripts to Databricks: Lessons in Production Workflow
+
+2. The Expanse - Navigating the R Package Universe
+
+3. Translating clinical guidance to actionable insights with R
+
+4. Templated Analyses within R Packages for Collaborative, Reproducible Research
+
+5. Teaching and learning data science in the era of AI
+
+6. rainbowR - a community that supports, connects and promotes LGBTQ+ people who code in R
+
+7. Why’d you load that package for?
+
+8. JSquarto: Bridging JavaScript Documentation with Quarto's Power
+
+9. DataPages for interactive data sharing using Quarto
+
+10. Event Automation with Posit Connect
+
+11. Detecting Coordinated Disinformation Networks with R
+
+12. Breaking data identities: Making a case for language-agnosticity
+
+13. Using the Kyber R package to connect Google Sheets, RMarkdown, GitHub, and Agenda docs for open education
+
+14. Ten Simple Rules for Teaching an Introduction to R
+
+Add to Schedule"
+"+1
+Strengthening The R Ecosystem
+Tuesday, Aug 131:00 PM - 2:20 PM PDT
+
+20+ Years of Reading Data into R - Colin Gillespie
+For the last 20+ years, I've been reading data into R. It all started with the humble scan() function. Then, I used fancy new-fangled file formats, such as parquet and arrow, before progressing onto trendy databases, such as duckdb, for analytics. Besides the fun you can have by messing around with new technologies, when should you consider the above formats? In this talk, I'll cover a variety of methods for importing data and highlight the good, the bad, and the annoying.
+
+
+Contributing to the R Project - Heather Turner
+Posit provides an amazing set of products to support data science, and we will learn about many great packages and approaches from both Posit and the wider community at posit::conf(2024). But underlying it all are a number of open source tools, notably R and Python. How can we contribute to sustaining these open source projects, so that we can continue to use and build on them?
+
+In this talk I will address this question in the context of the R project. I will give an overview of the ways we can contribute as individuals or companies/organizations, both financially and in kind. Together we can build a more sustainable future for R!
+
+
+What I Learned Resurrecting an R package - Dave Slager
+We hear a lot about creating R packages, but R packages don't last forever on their own. I describe my experience resurrecting rvertnet, an abandoned ropensci project that had become stale on CRAN. I talk about how I found out the package needed a new maintainer, how I took ownership of the package, and how I decided what needed fixing. I discuss several examples of package repairs I implemented, including fixing outdated CI, removing unnecessary files and dependencies, writing workarounds for deprecated functions, and fixing building of a vignette. Finally, I'll describe my positive experiences communicating with the old maintainer and submitting a package to CRAN for the first time.
+
+
+Building Sustainable Open Source Ecosystems: Lessons From the #rstats Community and an NSF Grant - Kelly Bodwin
+The blessing and the curse of open-source software is that it lacks the infrastructure of a corporation. It can often be difficult to ensure that projects have stability and longevity. In this talk, I will discuss ongoing work on an NSF ""Pathways in Open-Source Ecosystems"" grant focused on the {data.table} package. Like many R packages, {data.table} has incredible functionality and thousands of users - but no cohesive community or governance structure to support it long-term. We are working to build this ecosystem. I will provide my advice and insight for key aspects of a sustainable open-source project: Engaging casual users, supporting developers, generating content, emphasizing education, and creating a home base for the community.
+
+Add to Schedule"
+"+1
+What's New With Tidymodels?
+Tuesday, Aug 131:00 PM - 2:20 PM PDT
+
+Fair machine learning - Simon Couch
+In recent years, high-profile analyses have called attention to many contexts where the use of machine learning deepened inequities in our communities. After a year of research and design, the tidymodels team is excited to share a set of tools to help data scientists develop fair machine learning models and communicate about them effectively. This talk will introduce the research field of machine learning fairness and demonstrate a fairness-oriented analysis of a machine learning model with tidymodels.
+
+
+Survival analysis is coming to tidymodels! - Hannah Frick
+Survival analysis is a part of statistical modeling (and machine learning) specifically for time-to-event data. This is common in medical research but has broad applications across industries, e.g. for analyzing customer churn. The tidymodels framework is a collection of R packages for safe, performant, and expressive predictive modeling. We added models for survival analysis a while ago. Now we are back with the rest, including performance metrics specifically for these types of models. I'd like to show how you can now leverage the entire framework for survival analysis: for all steps of the modeling process, from data prep to tuning. We are so excited to show you all of this!
+
+
+Evaluating Censored Regression Models is Hard - Max Kuhn
+Censoring in data can frequently occur when we have a time-to-event. For example, if we order a pizza that has not yet arrived after 5 minutes, it is censored; we don't know the final delivery time, but we know it is at least 5 minutes. Censored values can appear in clinical trials, customer churn analysis, pet adoption statistics, or anywhere a duration of time is used. I'll describe different ways to assess models for censored data and focus on metrics requiring an evaluation time (i.e., how well does the model work at 5 minutes?). I'll also describe how you can use tidymodel's expanded features for these data to tell if your model fits the data well. This talk is designed to be paired with the other tidymodels talk by Hannah Frick
+
+
+Tidypredict with recipes, turn workflow to SQL, spark, duckdb and beyond - Emil Hvitfeldt
+Tidypredict is one of my favorite packages. Being able to turn a fitted model object into an equation is very powerful! However in tidymodels, we use recipes more and more to do preprocessing. So far, tidypredict didn’t have support for recipes, which severely limited its uses. This talk is about how I fixed that issue. Spending a couple of years thinking about this problem, I finally found a way! Being able to turn a tidymodels workflow into a series of equations for prediction is super powerful. For some uses, being able to turn a model to predict inside SQL, spark or duckdb allows us to handle some problems with more ease.
+
+Add to Schedule"
+"OD
++1
+Automated Reporting With Quarto: Beyond Copy And Paste
+Tuesday, Aug 132:40 PM - 4:00 PM PDT
+
+
+Reclaiming My Time with Quarto: A Journey from WordPress to Simplicity - Tyler Morgan-Wall
+Tired of WordPress's endless updates and security headaches? Want to spend less time on server administration and more time with friends and family? I found freedom by switching to Quarto with R's help! I'll show how I used R to automate the transformation of complex WordPress sites—custom JavaScript, styles, and content—into clean Quarto markdown. Additionally, I'll demonstrate how I enhanced my site using Quarto, and how switching has vastly improved my publishing workflow. This talk will show attendees how this decision can streamline and improve your blog or website: enhancing speed, improving security, and minimizing site management.
+
+
+Beyond Dashboards: Dynamic Data Storytelling with Python, R, and Quarto Emails - Sean Nguyen
+In this talk, I’ll confront the traditional dependence on dashboards for business intelligence, pointing out their shortcomings in delivering prompt insights to business professionals. I will propose a shift in strategy that employs Python and R to generate dynamic, customized emails, utilizing Quarto and Posit Connect for seamless automation. This technique guarantees direct and effective delivery of actionable insights to users' inboxes, enhancing informed decision-making and boosting engagement. This recommendation not only redefines the method of data delivery for optimal impact but also prompts a fundamental change in mindset among data practitioners, urging them towards a more engaged and individualized form of data narration.
+
+
+Creating Reproducible Static Reports - Orla Doyle
+In clinical trials we work in interdisciplinary teams where the discussion of outputs is often facilitated using static documents. We wanted to bring the advantages of modern tools (R, markdown, git) and software development practices to the production of company documents. We used an object-oriented approach to create classes for report items with a suite of tests. Finally, the report is rendered programmatically in docx format using a company template. This enables our statisticians to work in a truly end to end fashion within a GxP environment with the end product in a format suitable for interdisciplinary collaboration. We are currently piloting this package internally before we release in the open-source community.
+
+
+Quarto: A Multifaceted Publishing Powerhouse for Medical Researchers - Joshua Cook
+Traditional medical research dissemination is slow and cumbersome, often culminating in a diverse array of outputs: reports for our sponsors and regulators, manuscripts for peer-reviewed journals, summaries for online platforms, and presentations for conferences. However, it takes a great deal of time and effort to organize all these outputs so that our findings can enter the patient setting. Quarto can change that. It's a tool that lets us efficiently create various polished formats from a single source, while meeting diverse submission requirements. This talk will showcase how Quarto can revolutionize our communication, making research more impactful and speeding up the delivery of treatments to our patients.
+
+Add to Schedule"
+"GS
++1
+Innovating with Shiny
+Tuesday, Aug 132:40 PM - 4:00 PM PDT
+
+Wait, that’s Shiny? Building feature-full, user-friendly interactive data explorers with Shiny and friends - Kiegan Rice
+In my work I am often asked to develop interactive data explorers for public-use data sets, with an emphasis on making the tools engaging, easy to use, and understandable for a general audience. I’d like to talk about the work my team does to develop user-friendly Shiny applications that look and feel like full websites and share some of the tools we use. This includes things like designing landing pages, creating detailed “About” pages, letting users share links to specific charts or download static versions, adding social media sharing links, site meta tags, and sub-URLs, and so much more. After attending this talk, I hope others are excited about leveraging tools to make their users say “Wait, that’s Shiny?”
+
+
+Shiny Templates - Greg Swinehart
+The Shiny team has been working to help apps' UI and UX scale more thoughtfully and elegantly. We are currently working on Shiny Templates, which are opinionated boilerplate code that bring our refreshed component library and layouts together to help users create small, simple apps or large, complicated, multi-page dashboards that just look right.
+
+
+Making an App a System - Mike Stackhouse
+What data processing in your Shiny app is redundant or must happen within the app at all? What makes Shiny beautiful is how it blends data visualization into a compact bundle of code. That said, there are challenges to overcome to get from a developer’s console to users’ screens. Tools like Posit Connect help with this process, but as an app matures, developers and their users may encounter different performance issues. To address this, sometimes this means evolving and introducing separate data pipelines. In this presentation, we will overview some different types of scaling issues for a Shiny app. Additionally, we will introduce the new package {matte}, which provides support for adding data pipelines to your app that live outside Shiny.
+
+
+Empowering Decisions: Advanced Portfolio Analysis and Management through Shiny - Lovekumar Patel
+This talk explores the creation of an advanced portfolio analysis system using Shiny and Plumber API. Focused on delivering real-time insights and interactive tools, the system transforms financial analysis with user-centric design and reusable Shiny modules. The talk will delve into how complex financial data is made dynamic and interactive via an internal R package integrating with an ag-grid javascript library to enhance user engagement and decision-making efficiency. A highlight is the Plumber API's dual role: powering the current system and hosting other enterprise applications in other languages (python), demonstrating remarkable cross-platform integration. This system exemplifies the innovative potential of R in financial analytics.
+
+Add to Schedule"
+"+1
+Is It Supposed To Hurt This Much?
+Tuesday, Aug 132:40 PM - 4:00 PM PDT
+
+""Please Let Me Merge Before I Start Crying"": And Other Things I've Said at the Git Terminal - Meghan Harris
+This talk is geared towards those who may feel comfortable working independently with Git but need some confidence when working collaboratively. Just like novice drivers can learn to confidently (and safely!) merge onto (seemingly) intimidating highways, those new to collaborating with Git can also conquer Git merges with some exposure and preparation.
+
+This talk will go over:
+
+Different ways R users can interact with Git
+What Git merges and Git merge conflicts are
+Real-life examples of Git merges
+Advice on resolving Git merges
+Suggestions for cleaner workflows to promote better Git merges
+
+
+Easing the pain of connecting to databases - Edgar Ruiz
+Overview of the current and planned work to make it easier to connect to databases. We will review packages such as odbc, dbplyr, as well as the documentation found at in our Solutions site (https://solutions.posit.co/connections/db/databases/), which will soon include the best practices we find on how to connect to these vendors via Python.
+
+
+Saving time (and pain) with Posit Public Package Manager - Joe Roberts
+CRAN, Bioconductor, and PyPI are incredible resources for packages that make performing data science in R and Python better. But there’s also a better way to obtain those packages! Companies like Databricks are leveraging Posit Public Package Manager to make their users’ package installation faster and more reproducible. Learn why, and how anyone – anywhere – can easily get started using Public Package Manager.
+
+
+Auth is the product, making data access simple with Posit Workbench - Aaron Jacobs
+Accessing data is a critical early step in data science projects, but is often complicated by security and technical challenges in enterprises. This talk will explore how Posit Workbench facilitates secure data access in IDEs like RStudio, JupyterLab, and VS Code through authentication and authorization aligned with existing data governance frameworks. Workbench manages and refreshes short-lived credentials on the behalf of users for AWS, Azure, Databricks, and Snowflake, simplifying secure data access for open-source data science teams. Attendees will gain insights into overcoming data access challenges and leveraging Posit Workbench for secure, efficient data science workflows in an enterprise environment.
+
+Add to Schedule"
+"+1
+Making Decisions With Data
+Tuesday, Aug 132:40 PM - 4:00 PM PDT
+
+Democratizing Organization Surveys with Quarto and Shiny - Brennan Antone
+When gathering data from groups (e.g., surveys), where does it go, and who does it help? How do we consider the privacy of respondents and power dynamics in who can access and benefit from data?
+
+In this talk, I describe the creation of tools to let respondents get personalized feedback from the data they provide. This shifts the balance of power, allowing everyone to benefit directly, rather than providing information to only top decision-makers. I examine how Quarto and Shiny enable the creation of such tools, and describe takeaways from implementing them with two Fortune 500 companies. This talk teaches how personalized tools can make data accessible to all, and how to alter the power dynamics of how organizations gather and use data.
+
+
+CONNECTing with our clients - Sep Dadsetan
+Leveraging Posit Connect, our company transforms client engagement by providing direct support, extensive documentation (built with Quarto), and no-code applications for data exploration and analysis of real-world oncology data. This strategy provides us the greatest flexibility for subject matter experts to deliver client value, provide client assistance, enhance self-service learning, and to lower the technical barrier for data insights. Our commitment to client success and innovation is evidenced by our use of Posit Connect, providing tools for a competitive edge and data-driven culture.
+
+
+To Explore or To Exploit: Decoding Human Decision Making with R and Python - Erin Bugbee
+Every day, we face decisions, such as when to purchase a flight ticket to Seattle for posit::conf(2024) when prices change dynamically over time. As a decision scientist, I aim to understand these choices and the cognitive processes underlying them. In my talk, I'll delve into how I leverage both R and Python to decode human decision making. I'll focus on optimal stopping problems, a common predicament we all encounter, in which a decision maker must determine the right moment to stop exploring options and make a choice based on their accumulated knowledge. Attendees will be introduced to the field of decision science and learn how R and Python can assist in advancing the study of the human mind.
+
+
+Giving your scientific computing environment (SCE) a voice: experiences and learnings leveraging operational data from our SCE and Posit products to help us serve our users better - James Black
+Platform owners often ask questions like ‘how quickly do users migrate to new versions of R’, ‘what programming languages are used’, and ‘how are internal packages, dashboards and outputs consumed’?
+
+The answer to these questions and many more lives within the operational logs collected by systems like Posit Connect, Github, and AWS. I’ll share examples of how we use this data at Roche to shape our product roadmap. I’ll also share some ideas we are exploring to use this data to help empower our data scientists to understand the hidden consequence of how they work through feeding back personal cost and environmental impact - enabling informed decisions, e.g. what it means to schedule a pin to update daily, or request 2 vs 8 cores.
+
+Add to Schedule"
+"Keynote Session: Melissa Van Bussel
+Tuesday, Aug 134:15 PM - 5:15 PM PDT
+
+Session details coming soon!
+
+Add to Schedule"
+"Evening Event
+Tuesday, Aug 137:00 PM - 9:00 PM PDT
+
+If there's one social event to join at posit::conf(2024), it's this one! Stay tuned for more details on this exciting evening event.
+
+Add to Schedule"
+"Keynote Session: Allen Downey
+Wednesday, Aug 149:00 AM - 10:00 AM PDT
+
+Session details coming soon!
+
+Add to Schedule"
+"KA
++2
+Data Engineering
+Wednesday, Aug 1410:20 AM - 11:40 AM PDT
+
+Data Contracts: Keep Your Weekend Work-Free! - Nick Pelikan
+
+This talk will discuss data contracts – agreements between data producers and data consumers that ensure data is always available in the expected form. We'll delve into processes and techniques I've developed that can help teams easily create data contracts. This talk will also introduce a literate programming framework that can enable data producers and data consumers who work on different teams, in completely different programming languages (or no programming language at all!) to collaborate on creating data contracts, and allow them to be enforced automatically.
+
+
+Demystifying Data Modeling - Kshitij Aranke
+
+Data Modeling – what is it, why is it useful, and how dbt makes it easy.
+
+As a previous R user, I was very skeptical of the value of data modeling when I first came across it. But over time, I realized that it helped organizations scale up analytics practices by standardizing on consistent definitions for metrics, improving debuggability for data pipelines, and even enabling rapid experimentation. I want to share this magic with the posit::conf community, and especially how dbt is a tool that's oriented around this practice.
+
+
+{mirai} and {crew}: next-generation async to supercharge {promises}, Plumber, Shiny, and {targets} - Charlie Gao and Will Landau
+
+{mirai} is a minimalist, futuristic and reliable way to parallelise computations – either on the local machine, or across the network. It combines the latest scheduling technologies with fast, secure connection types. With built-in integration to {promises}, {mirai} provides a simple and efficient asynchronous back-end for Shiny and Plumber apps. The {crew} package extends {mirai} to batch computing environments for massively parallel statistical pipelines, e.g. Bayesian modeling, simulations, and machine learning. It consolidates tasks in a central {R6} controller, auto-scales workers, and helps users create plug-ins for platforms like SLURM and AWS Batch. It is the new workhorse powering high performance computing in {targets}.
+
+
+Deploying data applications and documents to the cloud - Alex Chisholm
+
+Creating engaging data content has never been easier, yet easily sharing remains a challenge. And that's the point, right? You cleaned the data, wrangled it, and summarized everything for others to benefit. But where do you put that final result? If you're still using R Markdown, perhaps it's rpubs.com. If you've adopted Quarto, it could be quartopub.com. Have a Jupyter notebook? Well, that's a different service. And this is just for docs. Want to deploy a streamlit app? Head to streamlit.io. Shiny? Log into shinyapps.io. Dash? You could use ploomber.io, if you have a docker file - and know what that is. This session summarizes the landscape for online data sharing and describes a new tool that Posit is working on to simplify your process.
+
+Add to Schedule"
+"AC
++2
+End-To-End Data Science With Real-World Impact
+Wednesday, Aug 1410:20 AM - 11:40 AM PDT
+
+Modernizing the Data Science Toolkit of a 40-year-old Market Research Company - Keaton Wilson
+
+This presentation outlines the efforts undertaken by the Decision Sciences and Innovation (DSI; which focuses on statistical consulting and end-to-end quantitative analysis) team at KS&R to modernize their data science toolkit over the past year. The main goals were to foster collaboration, improve our legacy codebase, and deliver high-quality data products. Key topics covered include teamwide adoption of version control and GitHub, building and deploying internal R packages, Quarto-based documentation, and strategies for gaining buy-in across teams and leadership. Attendees can expect practical insights and tools for instigating change in their own organizations.
+
+
+Building scalable data pipelines through R and global health information systems' API - Karishma Srikanth and Aaron Chafetz
+
+Efficient and scalable analytics workflows are critical for an adaptive and data-driven organization. How can we scale systems to support an office charged with implementing USAID's $6 billion HIV/AIDS program? Our team leveraged R and global health APIs to build more efficient workflows through automation by developing custom R packages to access health program data. Our investment in creating an automated data infrastructure, with flexible, open-source tools like R, enabled us to build reproducible workflows for analysts in over 50 partner countries. We would like to share our experience in a federal agency integrating APIs with R to develop scalable data pipelines, as inspiration for organizations facing similar resource & data challenges.
+
+
+Shiny in Action: Transforming Film Production with TARS - Marcin Dubel
+
+Behind every 'Lights! Camera! Action!' at WB Pictures is a complex choreography of 20+ departments, complicated by the manual creation of 50+ weekly or monthly reports over each production's 2-3 year span. Our R/Shiny app (""TARS"") streamlines communication and coordination of this process via data integrations, interactive UIs, customizable notifications and reports. This presentation will unpack the layers of our app's functionality, spotlighting Shiny and R's pivotal roles in modernizing the business of film production, data confidentiality, and inter-departmental synergy. Developers will learn about methodologies for enhancing data flow, security measures, and custom notifications, offering inspiration for navigating similar challenges.
+
+
+Computing and recommending company-wide employee training pair decisions at scale via an AI matching and administrative workflow platform developed completely in-house - Regis A. James
+
+Regis A. James developed an innovative tool that automates at-scale generation of high-quality mentor/mentee matches at Regeneron. Built using R, Python, LLMs, shiny, MySQL, Neo4j, JavaScript, CSS, HTML, and bash, it transforms months of manual collaborative work into days. The reticulate, bs4dash, DT, plumber API, dbplyr, and neo4r packages were particularly helpful in enabling its full-stack data science. The patent-pending expert recommendation engine of the AI tool has been successfully used for training a 400-member data science community of practice, and also for larger career development mentoring cohorts for thousands of employees across the company, demonstrating its practical value and potential for wider application.
+
+Add to Schedule"
+"AGAR
++2
+It Takes A Village: Building And Sustaining Communities
+Wednesday, Aug 1410:20 AM - 11:40 AM PDT
+
+Balancing Global Infrastructure and Local Autonomy: Lessons from R-Ladies Global - Averi GiudicessiAs a global non-profit established in 2016, R-Ladies has more than 100k members from 233 chapters in 63 countries to support the mission of increasing gender diversity in the R community. Empowering local chapters is challenging as accessibility and awareness of communication methods, software choices, social platforms, and support avenues varies internationally. Join us for insights into our journey of developing a global, technical, and social infrastructure while fostering collaboration and growth and granting chapters the freedom to tailor their activities to local contexts. Walk away with practical, technical, and social strategies to empower and diversify your own data science communities based on learning from continuous feedback.
+
+
+bRewing code: Ingredients for successful tribal collaboration - Alena Reynolds and Angie ReedEveryone will have their own recipe for bRewing a great collaboration, but we wanted to share ours. Ingredients: equal parts learner and teacher, 90 kg of supportive management, 1 whole database, complete or incomplete, a dash of creativity, 60 hours of time (recipe included in main presentation), fun to taste. First, make sure your ingredients are organized and prep area is tidy. Sift data into central database and simmer and stir into separate r scripts. In large cauldron, combine scripts and narrative into one giant Rmarkdown. Lubridate your pan and knit into desired format. We want to share the rest of our recipe to make a delicious report that builds confidence in the learner, new and strong friendships, and lifelong skills.
+
+
+Art of R Packages: Forging Community with Hex Stickers - Hubert HalunHex logotypes in the R community are not just for show. They represent identity, unity, and the collaborative nature of open-source projects. This talk will explore how these stickers blend design and visual storytelling, turning R packages into symbols of community. I'll cover the hex sticker creation process, from idea to design, and their impact on brand recognition and user pride. Using examples from the Tidyverse, Rhinoverse, Nest and others, I'll highlight how hex stickers unite the R community. The aim is to show how mixing design with data science in creating R packages can build a strong community, highlighting the importance of both looks and usefulness.
+
+
+Converting Posit-Enthusiasm into Posit-Action - Tyler McInnesHow did posit::conf(2023) influence my role as coordinator of a nation-wide bioinformatics training programme in Aotearoa New Zealand? Inspired by the talks and workshops I attended at last year's conference, I set myself 17 tasks that would strengthen the local data science community, showcase Posit tools, and improve my own skill set. Post-conference enthusiasm was at an all time high. Could I translate this enthusiasm into action to improve the data science training community? This talk will demonstrate how I was able to implement skills and tools from posit::conf to improve my community, and highlight the current state of training in New Zealand, including the methods used to connect a small but widely dispersed group of researchers.
+
+Add to Schedule"
+"WCCS
++1
+What's New With Shiny For Python?
+Wednesday, Aug 1410:20 AM - 11:40 AM PDT
+
+Bending the Shiny learning curve with Shiny Express - Joe Cheng
+
+Shiny Express is the easiest way to get started with Shiny. It's a new syntax for writing Shiny apps, one that trades structure for minimalism. It's designed to make Shiny dramatically easier to learn and faster to write, yet is still suitable for writing everything from throwaway prototypes, to realtime dashboards, to cutting edge model demos, to production-quality business workflow apps.
+
+In this talk, I'll introduce the syntax of Shiny Express and compare and contrast it to the traditional way of writing Shiny apps (which we now refer to as Shiny Core).
+
+I hope to inspire any R or Python data scientist who's been putting off learning Shiny, to finally give it a try!
+
+
+Building ML and AI apps with Shiny for Python - Winston Chang
+
+You probably already know that you can use Shiny to build interactive web applications like data dashboards and data analytics tools. Did you know that Shiny is also a great platform for building interactive machine learning and AI tools?
+
+In this talk I’ll show how Shiny can be used to build the following kinds of applications:
+
+Interactive model training
+Displaying model inference results
+Chatbots
+
+
+We’ll see how to build these applications quickly, easily, and with a minimum amount of fuss.
+
+
+Supercharge Your Shiny (for Python) App: Unleashing Jupyter Widgets for Interactivity - Carson Sievert
+
+
+Most Python packages that provide interactive web-based visualizations (e.g., altair, plotly, bokeh, ipyleaflet, etc.) can render in Jupyter notebooks via the ipywidgets standard. The shinywidgets package brings that ipywidgets standard to Shiny, enabling the use of 100s of Jupyter Widgets as Shiny outputs. In this talk, you'll not only learn how to render Jupyter Widgets in Shiny to get interactive output, but also how to leverage user interaction with widgets to create delightful and bespoke experiences.
+
+
+Editable data frames in Py-Shiny: Updating original data in real-time - Barret Schloerke
+
+Integrating editable data frames into Py-Shiny and Shinylive applications streamlines data scientists' workflows by allowing real-time data manipulation directly within interactive web applications. This new feature enables users to edit, copy, and paste cells within the data frame output, facilitating immediate analysis and visualization feedback. It simplifies the process of data exploration and hypothesis testing, as changes to the data set can be instantly reflected in the application's outputs without the requirement to update the original data, keeping data-scientists “scientists”, not data-janitors.
+
+Add to Schedule"
+"img-landscape
+Birds of a Feather
+Wednesday, Aug 1411:40 AM - 12:10 PM PDT
+
+These are informal gatherings for attendees to discuss specific topics that are interesting to them! You can choose from one our pre-planned topics, or suggest your own topic when you arrive at conf!
+
+Add to Schedule"
+"Networking Lunch
+Wednesday, Aug 1411:40 AM - 1:00 PM PDT
+
+Join your fellow posit::conf attendees for a networking lunch!
+
+Add to Schedule"
+"img-landscape
+Posit Demos and Partner Activities
+Wednesday, Aug 1411:45 AM - 12:45 PM PDT
+
+Join us in the lounge for scheduled Posit demos, connect with the Posit team, and meet up with Posit partners!
+
+Add to Schedule"
+"+1
+Data Science Case Studies
+Wednesday, Aug 141:00 PM - 2:20 PM PDT
+
+Open Source Software in Action: Expanding the Spatial Equity Data Tool - Gabriel Morrison
+
+The Urban Institute’s Spatial Equity Data Tool enables users to upload their own data and quickly assess whether place-based programs and resources – such as libraries or wi-fi hotspots – are equitably distributed across neighborhoods and demographic groups. And our (forthcoming) API and R package enable users to seamlessly incorporate equity analytics into existing workflows and exciting new tools.
+
+In this talk, I will share how we've expanded access to the tool using multi-language software. I'll discuss our updates to Python-based tool and API; R package wrapping the API; and Quarto-based documentation. I will also share how our partners in the City of Los Angeles have used the API and RShiny to build a custom budget equity tool.
+
+
+Making Waves with R, Python, and Quarto - Regina Lionheart
+
+Wave models are powerful tools for understanding coastal erosion, but analyzing their outputs pose challenges. Proprietary formats produce inaccessible data that require manual extraction. Final results must also be approachable to a diverse audience of engineers, governments, and coastal communities. In 2022, a project was proposed to investigate how a restored beach could respond to waves while mitigating erosion and protecting a cultural resource. Using R and Python wrapped in Quarto, wave model outputs were fully scripted to create a single reproducible document flexible enough to answer multiple modeling questions. As coasts change, rapid modeling and analysis may help preserve coastal access for years to come.
+
+
+Why You Should Think Like an End-to-end Data Scientist, and How - Adam Wang
+
+Machine learning (ML) solutions are becoming ubiquitous when tackling challenging problems, enabling end-users to access reliable, insightful information. However, many components of these solutions rely on domains outside traditional data science — e.g., data, DevOps, and software engineering.
+
+In this talk, I'll walk through an end-to-end ML solution we built for transplant centers to identify likely stem cell donors. We'll then focus on how interacting with domains outside traditional data science can immensely help a project succeed and increase your impact.
+
+You will take away specific examples on why thinking end-to-end can enhance your ML solutions, and how to start applying these principles at your own organization.
+
+
+earthaccess: Accelerating NASA Earthdata science through open, collaborative development - Luis Lopez
+
+earthaccess is a python library to search, download or stream NASA Earth science data with just a few lines of code.
+
+Open science is a collaborative effort; it involves people from different technical backgrounds, and the data analysis to solve the pressing problems we face cannot be limited by the complexity of the underlying systems. Therefore, providing easy access to NASA Earthdata and reduce the complexity and ""time to science"" is the main motivation behind this Python library.
+
+Add to Schedule"
+"+2
+It's R And Python, Not R Or Python
+Wednesday, Aug 141:00 PM - 2:20 PM PDT
+
+Mixing R, Python, and Quarto: Crafting the Perfect Open Source Cocktail - Alenka Frim and Nic Crane
+
+Collaborating effectively on a cross-language open source project like Apache Arrow has a lot in common with data science teams where the most productivity is seen when people are given the right tools to enable them to contribute in the programming language they are most familiar with. In this talk, we share a project we created to combine information from different sources to simplify project maintenance and monitor important metrics for tracking project sustainability, using Quarto dashboards with both R and Python components. We'll share the lessons we learned collaborating on this project - what was easy, where things got tougher, and concrete principles we discovered were key to effective cross-language collaboration.
+
+
+Python Rgonomics - Emily Riederer
+
+Data science languages are increasingly interoperable with advances like Arrow, Quarto, and Posit Connect. But data scientists are not. Learning the basic syntax of a new language is easy, but relearning the ergonomics that help us be hyperproductive is hard. In this talk, I will explore the influential ergonomics of R's tidyverse. Next, I will recommend a curated stack that mirrors these ergonomics while also being genuinely truly pythonic. In particular, we will explore packages (polars, seaborn objects, greattables), frameworks (Shiny, Quarto), dev tools (pyenv, ruff, and pdm), and IDEs (VS Code extensions). The audience should leave feeling inspired to try python while benefiting from their current knowledge and expertise.
+
+
+Empowering Reproducible Finance through Tidy Finance with R and Python - Christoph Scheuch
+
+Tidy Finance merges financial economics research with the principles of transparency and reproducibility, offering a novel open-source toolkit in R and Python. Our multi-language approach simplifies empirical studies in finance and teaches reproducible research with clean, understandable code. In my talk, I'll showcase how Tidy Finance improves finance research and education, aiding finance professionals in applying its principles for better teaching and research. Attendees from diverse backgrounds will learn about fostering open-source initiatives in their fields. Join us to support a transparent, reproducible research environment.
+
+
+CI madness with Ibis: testing 20 query engines on every commit - Phillip Cloud
+
+Ibis is a cross-backend DataFrame API for Python, heavily inspired by many things including R, SQL, pandas and others. The cross backend nature of Ibis presents a bit of a testing pickle: how on earth can we reliably test 20 analytic query engines while maintaining our sanity? Can we do this on every commit? In this talk I'll delve into the guts of how we test Ibis across 20 backends on every commit and pull request and techniques for dealing with CI versus local environments.
+
+Add to Schedule"
+"SCSL
++1
+Level Up Your Data Science Skills
+Wednesday, Aug 141:00 PM - 2:20 PM PDT
+
+Level up! Empowering industry R users with different levels of experience - Seth Colbert-Pollack
+How can we level up the R skills of a team with varied backgrounds and levels of experience in R? At PicnicHealth, a healthtech company that collects and abstracts patient medical record for use in research, we've come up with a number of strategies to share. We'll discuss building internal packages that assist with common tasks and distributing them with Posit Package Manager, hosting dashboards on Posit Connect and integrating them with other internal apps, maintaining a wiki, and holding regular Office HouRs to give folks a place to ask for advice. We'll share examples and show some projects that have benefited from this approach. This talk is suitable for anyone who has at least one coworker using R.
+
+
+Partnering with Posit for progress on Environmental Stewardship - Saumitha Leelakrishnan
+Do you know R helps reduce tailpipe emissions like Carbon, NOX and other emissions.
+I am Saumiitha Leelakrishnan, mom of 3 kids who cares for our environment, Technical Specialist leading Diagnostics and Emissions Data Analysis projects in Cummins - A 100+ year Engine Manufacturing company. In this talk, I will be sharing how R helps meet global product compliance and deliver solutions that lead to a cleaner environment. You will learn the transition from MATLAB to R and Python, how I utilized R's seamless integration, statistical capabilities, advanced modeling techniques, Quarto, ML algorithms to develop, and maintain web applications in Posit Connect. This talk will benefit the Data Science Community with examples of harnessing the power of R.
+
+
+Coding in a Cyclone: open-source and the public sector in the birthplace of R - Lee Durbin
+Lee Durbin's journey at Auckland Council transitions from Excel reliance to R, highlighting data analysis evolution in the public sector. Emphasising proficiency and sustainability, he leverages R's rich ecosystem and community support to foster a mature data culture. Despite initial inexperience, resources like R For Data Science and TidyTuesday rapidly enhanced his skill set. Addressing the sustainability challenge, he implemented the RAP framework and {renv} and {targets} packages, emphasising collaboration and continuous improvement. This talk outlines transforming data practices through R, ensuring organisational resilience even when responding to natural disasters.
+
+
+Quarto for Knowledge Management - Cynthia Huang
+Have you ever considered using the power and flexibility of Quarto for note-taking and knowledge management? I did, and now I use Quarto websites to track my PhD progress, document insights from conferences, manage collaborative research projects, and more. Let me show you how easy it is to implement standard knowledge management system features, such as cross-referencing, search indexing, and custom navigation. But what if you want more advanced features like glossaries, document listings and summaries of datasets? Well, with some creative use of Quarto's many features and extensions, almost anything is possible. Whether you're new to Quarto or a seasoned expert, consider adding Quarto to your note-taking toolkit.
+
+Add to Schedule"
+"MH
++1
+Pour Some Glitter On It: Custom Quarto Outputs
+Wednesday, Aug 141:00 PM - 2:20 PM PDT
+
+
+Report Design in R: Small Tweaks that Make a Big Difference - David Keyes
+If you've ever tried to improve how your Quarto-based reports look, you probably felt overwhelmed. I'm a data person, you may have thought, not a designer. It's easy to drown in a sea of design advice, but we at R for the Rest of Us have found that a few small tweaks can make a big difference. In this talk, we will discuss ways that we have learned to make high-quality reports in R. These include ways you can consistently use brand fonts and colors in your report text and in your plots. We'll demonstrate how you can use a grid system in Quarto to bring visual symmetry to your reports. All of these tweaks are small on their own, but, when combined, have the potential to make a big difference in the quality of your report design.
+
+
+Reproducible, dynamic, and elegant books with Quarto - Mine Cetinkaya-Rundel
+Building on my experience writing books with Quarto for various audiences (R learners, statistics learners, and Quarto learners), for various venues (self-published and publisher-published), in various formats (HTML books hosted online and PDF books printed), I will share best practices and tips and tricks for authoring reproducible, dynamic, and elegant books with Quarto. I will also highlight a few features from the recently-released Quarto 1.4 that pertain to books (e.g., flexible and custom cross-references, embedding computations from notebooks, and inline code in multiple languages) as well as share examples of how to make your web-hosted books more interactive with tools like webR and shinylive.
+
+
+Designing and Deploying Internal Quarto Templates - Meghan Hall
+Quarto is a game-changer for creating reproducible, parameterized documents. But the beauty of Quarto—that it has so many different use cases with various output formats—can lead to disarray with numerous .qmd files floating around an organization and too much copy-paste when creating something new. Quarto templates are perfect for easing the burden of developing a report and instead standardizing the structure, style, and initial content of your projects, no matter the output format. We’ll discuss tips and tricks for implementing enough html and css to create beautiful documents that match your organization’s branding and also explore how easy it can be to deploy those Quarto templates with a single function within an internal R package.
+
+
+Closeread: bringing Scrollytelling to Quarto - Andrew Bray
+Scrollytelling is a style of web design that transitions graphics and text as a user scrolls, allowing stories to progress naturally. Despite its power, scrollytelling typically requires specialist web dev skills beyond the reach of many data scientists. Closeread is a Quarto extension that makes a wide range of scrollytelling techniques available to authors without traditional web dev experience, with support for cross-fading plots, graphics and other chunk output alongside narrative content. You can zoom in on poems, prose and images, as well as highlighting important phrases of text.
+
+Finally, Closeread allows authors with experience in Observable JS to write their own animated graphics that update smoothly as scrolling progresses.
+
+Add to Schedule"
+"+1
+Data Visualizations: Idea > Process > Sharing
+Wednesday, Aug 142:40 PM - 4:00 PM PDT
+
+
+Creating multi-figure visualizations with Patchwork - Thomas Lin Pedersen
+While many visualization frameworks focus on facilitating the creation of a single plot, combining multiple plots into a single coherent figure is often the end goal when creating a visualization. There is no shortage of packages in R for doing this but they often lack in flexibility or are cumbersome to use. Because of this, the patchwork package has become the tool of choice for many, with it's clear API and flexible customizations. This talk will guide the audience through the core concepts of the patchwork package, starting with simple compositional tasks and moving all the way up to advanced nested layouts and insets, preparing them to use the package in their day-to-day work when they come home.
+
+From idea to code to image: Creative data visualizations in R - Georgios Karamanis
+In this talk, we will walk through the process of converting an idea into a creative visualization in R and ggplot2, from finding inspiration to writing the code. We’ll look at handy tips to make the creative and coding process smoother, how to create more personal plots, as well as the importance (and fun!) of sharing your work with a great community.
+
+
+Animated web graphics in Quarto with Svelte and other tools - James Goldie
+Quarto makes web graphics accessible to data scientists, letting them write Observable JavaScript (OJS) right alongside the languages they already use, like R and Python. OJS is powerful, but making graphics that animate and transition can be a challenge. In this talk I'll demonstrate ways to use Quarto and OJS with graphics libraries to make them react and animate according to your data. We'll even look at making bespoke, reactive graphics with Svelte and D3.js using Sverto, a Quarto extension designed to help you on your web graphics journey.
+
+
+Be Kind, Rewind - Ellis Hughes
+Imagine a world where crafting a stunning, insightful data visualization is not just about the end product, but the journey. A world where every decision, every tweak, every step in your creative process is not just a fleeting moment, but a valuable artifact. {camcorder} is an innovative R package that revolutionizes the way you create and share your data visualizations. It not only allows you to preview your visualizations exactly as they will be saved, but also records every plot you create, turning your creative process into a compelling narrative.
+
+Discover the inspiration behind {camcorder}’s creation, its use, and explore the ways you can leverage it to tell captivating stories to your stakeholders. Are you ready to press play?
+
+Add to Schedule"
+"+1
+Not All Data Superheroes Wear Capes
+Wednesday, Aug 142:40 PM - 4:00 PM PDT
+
+Data Wrangling for Advocacy: Tidy Data to Support the Affordable Connectivity Program - Christine Parker
+
+We sought to create a dashboard to highlight some frequently asked statistics about the Affordable Connectivity Program. To accomplish this goal, I transformed the program data which consist of enrollment and claims summarized over different geographies and updated at different times (tidyverse); collected demographic data from the Census Bureau (tidycensus); modeled future enrollment and expenditure scenarios (lme4, plotly); and created geospatial datasets to illustrate our findings in maps (tigris, arcgisbinding). The messy datasets posed a steep learning curve. We were among the few organizations that worked with these data to translate them into meaningful insights and I'd like to share how we were able to create such a useful resource.
+
+
+Leveraging Data in a Volunteer Fire Department - Joseph Richey
+
+The majority of fire departments in the United States are volunteer based organizations. As an emerging professional in the field of data science, I was able to help my local fire department track, manage, and analyze data using R shiny, Python, and AWS. This has allowed for increased efficiency within the department, and better transparency for fire department and local government officials.
+
+
+Novice to data scientist: how a pediatric anesthesiologist used R Studio to help disadvantaged kids access surgical care - Nick Pratap
+
+When a surgical procedure gets cancelled, a child gains no health benefit, families' time off work and pre-op anxiety is in vain, and our not-for-profit children's hospital loses ~$1 per second. To understand cancellation, I needed to analyze thousands of patient records. Despite zero formal training, I learned to tidy then visualize data – and even do geocoding and machine learning. Once we identified children at high risk, we could target additional support to their families. Furthermore, we showed that surgery cancellation contributes to health inequality. The R Studio/tidyverse ecosystem allows novices to do sophisticated analytics, and is helping us improve access to health care for the most disadvantaged children in our communities.
+
+
+A Machine Learning Approach to Protect Patients from Blood Tube Mix-Ups - Brendan Graham
+
+A wrong blood in tube (WBIT) error occurs when blood collected from one patient is labeled as though it was collected from a different patient. While rare, these errors can cause serious, potentially life threatening patient safety events. This talk is about how a team of pathology informaticists and data scientists developed and deployed a multi-analyte WBIT detection model at the Children's Hospital of Philadelphia. We describe how machine learning models can potentially identify previously undetectable WBIT errors and improve upon the current detection methodology. Furthermore we demonstrate how using R markdown, tidymodels, vetiver and Posit Connect allowed for rapid model iteration, reproducibility, deployment and monitoring.
+
+Add to Schedule"
+"JWCW
++1
+Teaching Data Science
+Wednesday, Aug 142:40 PM - 4:00 PM PDT
+
+Posit Academy in the Age of Generative AI - Lessons from the Frontlines - James Wade
+The rise of generative AI is fundamentally changing how we learn to code. At Dow, we've had nearly 200 learners participate in Posit Academy to learn R or python and apply it to their work. As coders embrace these new tools, we are witnessing a ""before and after"" moment. This talk will share real-world examples of how researchers at Dow are learning by using code generation, highlighting the most effective tools including copilots and chat agents, to grapple with the challenges and opportunities of learning to code in this transformative era.
+
+
+Deep Learning is Just LEGO: and Other Hands on Machine Learning Activities - Chelsea Parlett-Pelleriti
+Machine Learning involves a lot of math, and a lot of code. But it can also involve LEGO, coloring sheets, and 3D printed gradients! Hands on, kinesthetic activities help people learn complex technical concepts in an intuitive way, and to be honest, provide a welcome break from all the formulas and function definitions. These activities not only increase engagement, but make the topic more accessible to a wider range of people. Come learn how to use and design these activities for yourself, or for a class!
+
+
+Supporting Social Good Through Community-Based Data Science Education - Carre Wright
+In this data-centric era, the demand for responsible data science practitioners is more crucial than ever. However many data science education programs don’t adequately emphasize data ethics. To address this need, my colleagues, Ava Hoffman, Michael Rosenblum, and I have developed a course at Johns Hopkins, offering students hands-on experiences collaborating with community-based organizations on diverse data science projects. We've partnered with organizations championing various causes, including youth leadership, voting rights, transportation advocacy, and community tool banks. We've gained valuable insights about hands-on data ethics education and demonstrated that even data science education itself can support social good.
+
+
+AI for Gaming: How I Built a Bot to Play a Video-Game with R and Python - Aleksander Dietrichson
+I recently undertook to build a robot to play a video game online. Using reinforcement learning, a custom computer vision model, and browser automation –all implemented in R/Python– I was able to create an AI which played the game to perfection. In this presentation I will share the lessons learned as I went through this process, and some hints to avoid the pitfalls I tackled. I will present some real-world business cases to answer the obvious why-question. For colleagues who teach Data Science and AI, I will show how an activity such as this can provide the entry-point and basis for discussion for more than half a dozen topics, ranging from formal logic, game theory, empirical inference, all the way to Shiny and Quarto.
+
+Add to Schedule"
+"RK
++1
+This Session Was Not Generated By AI
+Wednesday, Aug 142:40 PM - 4:00 PM PDT
+
+Elevating enterprise data through open source LLMs - Rafi Kurlansik
+
+In an era where data privacy and security are paramount, many organizations are keen on leveraging Large Language Models (LLMs) in conjunction with their proprietary data without exposing it to third-party services. Recognizing this need, our talk, ""Elevating Enterprise Data Through Open Source LLMs,"" showcases an approach that integrates the capabilities of Databricks and Posit, enabling businesses to maintain ownership and control over their data and LLMs while delivering value to their customers. The core of our discussion revolves around a system architecture that synergizes the strengths of Databricks and Posit technologies, providing a comprehensive solution for enterprise data and open source LLMs. Databricks is responsible for data management and processing, offering a seamless environment for hosting, serving, and fine-tuning open source LLMs. Keeping data and models in the secure perimeter of Databricks lowers the risk of data exfiltration tremendously, and also benefits from the scalable data processing and machine learning capabilities - including recent acquisition MosaicML - that Databricks delivers. Posit steps in to streamline the process through Posit Workbench, the developer platform for data science with custom integrations for working with Databricks. This allows developers to write, test, and refine their code in a familiar and powerful setting while still being able to access the data, compute and model serving offered by Databricks. In addition, Posit Connect offers an easy to use platform for deploying these applications, ensuring that the end-to-end process, from development to deployment, is efficient, secure, and aligned with enterprise standards.
+
+
+Attendees of this talk will gain valuable insights into constructing and deploying LLM-powered applications using their enterprise data. By the end of the session, you will have a clear understanding of how to leverage Databricks for optimal data management and LLM operations, alongside Posit's streamlined development and deployment processes. This knowledge will empower you to deliver secure, effective, and scalable LLM-powered applications, driving innovation and value from your enterprise data while upholding the highest standards of data privacy and security.
+
+
+Using GitHub Copilot in R Shiny Development - Mark Wang
+
+Generative-AI tools, like the GitHub Copilot, is revolutionizing software development, and R Shiny is no exception. However, some important features of Shiny, including modularization, reactivity, interaction with CSS/JavaScript, and simulation-based testing pose unique opportunities and challenges to the use GitHub Copilot. The talk will start with integrating CoPilot with local and cloud Shiny development environments. Then, it will discuss best practices around context information and prompt engineering to improve the accuracy and specificity of Copilot suggestions. It will then demonstrate how Copilot can assist in various use cases of Shiny development, including UI/UX design, interactions with front-end languages and testing.
+
+
+Uniquely Human: Data Storytelling in the Age of AI - Laura Gast
+
+In an era of overwhelming data and increasing reliance on AI, the enduring power of human storytelling becomes essential. Our brains are wired for narrative – it evokes emotion, builds connection, and motivates action. Data storytelling marries insightful analysis with captivating narratives that move audiences.
+
+This presentation emphasizes the crucial role of data storytelling in an AI-driven world. It explores techniques for crafting impactful narratives from data, balancing human creativity with the speed of AI. The talk also touches on principles of ethical storytelling, highlighting how to build trust and transparency when leveraging AI.
+
+
+Using Generative AI to Increase the Impact of Your Data Science Work - Alok Pattani
+
+Over the past year plus, generative AI has taken the world by storm. While use cases for helping people with writing, code generation, and creative endeavors are abundant, less attention has been paid to how generative AI tools can be used to do new things within data science workflows. This talk will cover how Google's generative AI models, including Gemini, can be used to help data practitioners work with non-traditional data (text, images, videos) and create multimodal outputs from analysis, increasing the scale, velocity, and impact of data science results. Attendees should expect to come away with ideas of how to apply Google generative AI tools to real-world data science problems in both Python and R.
+
+Add to Schedule"
+"Keynote Session: Hannes Mühleisen
+Wednesday, Aug 144:15 PM - 5:15 PM PDT
+
+Session details coming soon!
+
+Add to Schedule"
+"Community Mixer
+Wednesday, Aug 145:15 PM - 6:45 PM PDT
+
+Stick around after the final keynote of posit::conf(2024) for a chance to connect with community members from R-Ladies and PyLadies. This event is open to the public, attendees of posit::conf and community members who are not registered for posit::conf may attend.
+
+
+
+Add to Schedule"
